@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+httpx
+pylint
+coverage
+pytest
+
